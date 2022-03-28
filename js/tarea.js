@@ -1,15 +1,16 @@
 // Tarea 1
 console.log (`Consigna 1`)
 
-let randomnumber = Math.floor(Math.random () * 100 ) + 1;
-console.log  (`Este es un número aleatorio ${(randomnumber)}`);
+let randomNumber = Math.floor(Math.random () * 100 ) + 1;
+console.log  (`Este es un número aleatorio ${(randomNumber)}`);
 
-console.log (`Esta es la raíz cuadrada del número aleatorio: ${Math.sqrt (randomnumber)}`);
+console.log (`Esta es la raíz cuadrada del número aleatorio: ${Math.sqrt (randomNumber)}`);
 
-//let randomnumber5ta = Math.pow (randomnumber, 5);
-console.log (`Este es el número aleatorio elevado a la quinta potencia: ${Math.pow (randomnumber, 5)}`) 
+//let randomnumber5ta = Math.pow (randomNumber, 5); Elevado a la quinta potencia
+console.log (`Este es el número aleatorio elevado a la quinta potencia: ${Math.pow (randomNumber, 5)}`) 
 
 //Tarea 2
+//Orden de listado
 console.log (`Consigna 2`)
 
 console.log  (`Esta es una lista que comprende los sigiuentes números:120,250,78,96,-38,45.72,1450,2380`);
