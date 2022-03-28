@@ -10,7 +10,7 @@ console.log (`Esta es la raíz cuadrada del número aleatorio: ${Math.sqrt (rand
 console.log (`Este es el número aleatorio elevado a la quinta potencia: ${Math.pow (randomNumber, 5)}`) 
 
 //Tarea 2
-//Orden de listado
+//Lista de números
 console.log (`Consigna 2`)
 
 console.log  (`Esta es una lista que comprende los sigiuentes números:120,250,78,96,-38,45.72,1450,2380`);
@@ -33,4 +33,4 @@ console.log (`y se redondea: ${Math.round (Math.round (num1 * 100) / 100)}`);
 console.log (` El número ${(num2)} con dos decimales es ${Math.round (num2 * 100) / 100}`);
 console.log (`y se redondea: ${Math.round (Math.round (num2 * 100) / 100)}`);
 console.log (` El número ${(num3)} con dos decimales es ${(Math.round (num3 * 100) / 100)}`);
-console.log (`y se redondea: ${Math.round (Math.round (num3 * 100) / 100)}`);
+console.log (`y se redondea: ${Math.round (Math.round (num3 * 100) / 100)}`)
