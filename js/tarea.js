@@ -27,9 +27,9 @@ console.log (`De la lista de números
 56.788789
 78.413582 se reducen a dos decimales y se redondean`);
 
-console.log (` El número ${(num1)} con dos decimales es ${(Math.round (num1 * 100) / 100)}`);
-console.log (`y se redondea: ${(Math.round (Math.round (num1 * 100) / 100))}`);
-console.log (` El número ${(num2)} con dos decimales es ${(Math.round (num2 * 100) / 100)}`);
-console.log (`y se redondea: ${(Math.round (Math.round (num2 * 100) / 100))}`);
+console.log (` El número ${(num1)} con dos decimales es ${Math.round (num1 * 100) / 100}`);
+console.log (`y se redondea: ${Math.round (Math.round (num1 * 100) / 100)}`);
+console.log (` El número ${(num2)} con dos decimales es ${Math.round (num2 * 100) / 100}`);
+console.log (`y se redondea: ${Math.round (Math.round (num2 * 100) / 100)}`);
 console.log (` El número ${(num3)} con dos decimales es ${(Math.round (num3 * 100) / 100)}`);
-console.log (`y se redondea: ${(Math.round (Math.round (num3 * 100) / 100))}`);
+console.log (`y se redondea: ${Math.round (Math.round (num3 * 100) / 100)}`);
